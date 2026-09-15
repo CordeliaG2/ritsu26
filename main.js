@@ -298,7 +298,7 @@ const regalos = [
   {
     foto: './img/7.jpg',
     miniTexto: '💙',
-    mensajeCompleto: 'Efra mando 2 fotos pero no 2 mensajes :v',
+    mensajeCompleto: 'Efra mando 2 fotos pero no 2 mensajes 😬',
     autor: 'Efra x2',
     hora: "03:00"
   },
@@ -307,7 +307,42 @@ const regalos = [
     miniTexto: '🎁',
     mensajeCompleto: 'Pense en decirle que te escibiera algo pero seguro me iba a mandar alv .-.',
     autor: 'Magali 😬',
-    hora: "23:00"
+    hora: "21:00"
+  },
+  {
+    foto: './img/9.png',
+    miniTexto: '🌟',
+    mensajeCompleto: 'Quiero decirte, Ritsu, que te quiero mucho y que lo pases increible en tu cumpleaños. Y algun dia espero poder conocerte ^^',
+    autor: 'Dav_Cos&vlogs',
+    hora: "03:00"
+  },
+  {
+    foto: './img/10.png',
+    miniTexto: '✨',
+    mensajeCompleto: 'Solecito insistio en poner esta y hacia falta rellenar, feliz cumpleaños 😬',
+    autor: '',
+    hora: "03:00"
+  },
+  {
+    foto: './img/11.png',
+    miniTexto: '⭐',
+    mensajeCompleto: 'aprovenchando para presumir mi fondo de pantalla, Feliz cumpleaños 😬',
+    autor: '',
+    hora: "03:00"
+  },
+  {
+    foto: './img/12.png',
+    miniTexto: '🎁',
+    mensajeCompleto: 'Hola ritsu, de parte de Moy agradezco haberte conocido y haber podido ver la etapa cuando hacias live, me gustó los momentos donde nos cantabas canciones de las atarashii gakko, desvelarnos mientras nos cuentas un chisme y yo llegaba justo cuando estaba el chisme, asi que agradezco mucho tu amistad, yo se que no hablamos pero agradezco mucho tu amistad por aunque no lo sepas ocupas un pedacito de mi vida',
+    autor: 'Romo',
+    hora: "03:00"
+  },
+  {
+    foto: './img/13.png',
+    miniTexto: '💙',
+    mensajeCompleto: 'Te quiero mucho, te deseo lo mejor, que cumplas muchos muchos años mas y que ojala se cumplan tus sueños y todas tus metas, nunca cambies y que ya deja de andar de migajera jajaja',
+    autor: 'Refer',
+    hora: "03:00"
   }
 ];
 
