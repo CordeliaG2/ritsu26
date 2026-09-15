@@ -258,91 +258,91 @@ const regalos = [
     miniTexto: 'Feliz cumple ✨',
     mensajeCompleto: 'Feliz cumpleaños, amiga hermosa 🥳💗. Espero que  tengas un cumpleaños increíble, lleno de momentos bonitos, risas y mucho cariño. Gracias por estar siempre y por ser una persona tan especial para mí. Te deseo todo lo mejor hoy y siempre. ¡Te quiero muchísimo! 🎂✨',
     autor: 'abi',
-    hora: "03:00"
+    hora: "00:00"
   },
   {
     foto: './img/2.png',
     miniTexto: '🎁',
     mensajeCompleto: 'Habemos muchas personas que la queremos y estimamos por sus actitudes y momentos gracioso, así como también la hemos visto triste y le damos nuestro apoyo, por qué la vida no es perfecta pero es bella al conocer personas como ella.',
     autor: 'Fernan',
-    hora: "03:05"
+    hora: "00:01"
   },
   {
     foto: './img/3.png',
     miniTexto: '💙',
     mensajeCompleto: 'Lisu, hoy es tu cumpleaños y no sé muy bien cómo empezar esta carta, porque podría simplemente decirte “feliz cumpleaños” y desearte lo mejor, pero siento que después de todo lo que hemos vivido, aunque sean cosas pequeñas y cotidianas, un simple feliz cumpleaños se queda demasiado corto. Últimamente sé que no has estado pasando por los mejores días y quizá por eso hoy quería escribirte algo diferente, algo que no fuera solamente para celebrar que cumples un año más, sino para recordarte que, incluso en esos días en los que las cosas no están bien, hay personas que siguen estando ahí para ti. Tal vez tú no te das cuenta, pero poco a poco te has convertido en alguien importante para muchas personas, y creo que es bonito pensar que aquel grupito que comenzó acompañándote por tu música terminó convirtiéndose en algo más que un grupo de personas que te admiran, terminó siendo un pequeño grupo de amigos que quiere verte bien, que espera tus presentaciones, que disfruta escucharte',
     autor: 'Solecito',
-    hora: "03:00"
+    hora: "00:02"
   },
   {
     foto: './img/4.png',
     miniTexto: '🌟',
     mensajeCompleto: 'Feliz cumpleaños ritsu desde el dia que te conoci supe que serias una buena amiga, gracias por todo espero salgas adelante como lo as echo siempre... Te quiere Dani',
     autor: 'Daniel',
-    hora: "03:00"
+    hora: "00:03"
   },
   {
     foto: './img/5.png',
     miniTexto: '⭐',
     mensajeCompleto: 'Que sigan tus exitos, eres una gran cantante',
     autor: 'Efra',
-    hora: "03:00"
+    hora: "00:04"
   },
   {
     foto: './img/6.jpg',
     miniTexto: '💫',
     mensajeCompleto: 'La primera vez que te vi realmente nunca imagine que te llegaria a conocer de verdad, sabes algo... este año ha sido mucho mejor de lo que esperaba y es gracias a ti, tuve un final de año horrible, yo creia que mi año solo iba a empeorar y entonces llegaste tu, comence a escribir en tus lives solo por que si, no esperaba que me toparas jajaja, sin darme cuenta ya era parte de tu grupo... no tienes idea de como eso me ayudo olvidandome de todo un rato, creeme cuando te digo que tal vez te hagamos paro en tu trabajo llendote a ver, pero pensandolo bien es mutuo por que verte cantar (como en mi cumpleaños), platicando con todos, riendonos de cualquier tonteria, hizo que todo fuera mas divertido, a final de cuentas ya pasaron nueve meses y nada fue tan malo como yo crei, de verdad, ritsu: muchas gracias por haber llegado a mi vida, gracias por siempre estar para todos, gracias por hacernos reir, por soportarnos y un largo etc. pues nada Feliz cumpleaños! pasatela bien, ya no te exigas demasiado, descansa bien, aun nos falta mucho que ver y que vivir. Y espero que te haya gustado todo esto hice todo el esfuerzo solo para mi ritsu.',
     autor: 'Servin',
-    hora: "03:00"
+    hora: "00:04"
   },
   {
     foto: './img/7.jpg',
     miniTexto: '💙',
     mensajeCompleto: 'Efra mando 2 fotos pero no 2 mensajes 😬',
     autor: 'Efra x2',
-    hora: "03:00"
+    hora: "00:04"
   },
   {
     foto: './img/8.png',
     miniTexto: '🎁',
     mensajeCompleto: 'Pense en decirle que te escibiera algo pero seguro me iba a mandar alv .-.',
     autor: 'Magali 😬',
-    hora: "21:00"
+    hora: "00:04"
   },
   {
     foto: './img/9.png',
     miniTexto: '🌟',
     mensajeCompleto: 'Quiero decirte, Ritsu, que te quiero mucho y que lo pases increible en tu cumpleaños. Y algun dia espero poder conocerte ^^',
     autor: 'Dav_Cos&vlogs',
-    hora: "03:00"
+    hora: "00:05"
   },
   {
     foto: './img/10.png',
     miniTexto: '✨',
     mensajeCompleto: 'Solecito insistio en poner esta y hacia falta rellenar, feliz cumpleaños 😬',
     autor: '',
-    hora: "03:00"
+    hora: "00:05"
   },
   {
     foto: './img/11.png',
     miniTexto: '⭐',
     mensajeCompleto: 'aprovenchando para presumir mi fondo de pantalla, Feliz cumpleaños 😬',
     autor: '',
-    hora: "03:00"
+    hora: "00:05"
   },
   {
     foto: './img/12.png',
     miniTexto: '🎁',
     mensajeCompleto: 'Hola ritsu, de parte de Moy agradezco haberte conocido y haber podido ver la etapa cuando hacias live, me gustó los momentos donde nos cantabas canciones de las atarashii gakko, desvelarnos mientras nos cuentas un chisme y yo llegaba justo cuando estaba el chisme, asi que agradezco mucho tu amistad, yo se que no hablamos pero agradezco mucho tu amistad por aunque no lo sepas ocupas un pedacito de mi vida',
     autor: 'Romo',
-    hora: "03:00"
+    hora: "00:05"
   },
   {
     foto: './img/13.png',
     miniTexto: '💙',
     mensajeCompleto: 'Te quiero mucho, te deseo lo mejor, que cumplas muchos muchos años mas y que ojala se cumplan tus sueños y todas tus metas, nunca cambies y que ya deja de andar de migajera jajaja',
     autor: 'Refer',
-    hora: "03:00"
+    hora: "00:05"
   }
 ];
 
