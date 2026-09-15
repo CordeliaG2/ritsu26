@@ -343,6 +343,13 @@ const regalos = [
     mensajeCompleto: 'Te quiero mucho, te deseo lo mejor, que cumplas muchos muchos años mas y que ojala se cumplan tus sueños y todas tus metas, nunca cambies y que ya deja de andar de migajera jajaja',
     autor: 'Refer',
     hora: "00:05"
+  },
+  {
+    foto: './img/14.png',
+    miniTexto: '💙',
+    mensajeCompleto: '¡Feliz cumpleaños, Ritsu! ✨🎂Hoy celebro tu vida y la suerte que es tenerte cerca. Tienes una luz muy especial y una forma única de hacer que todo a tu alrededor sea mejor; jamás dudes de lo valiosa que eres ni del impacto bonito que dejas en los demás.Deseo de corazón que este nuevo año venga cargado de sueños cumplidos, paz mental y momentos de esos que se quedan grabados para siempre. Que nunca te falten razones para sonreír ni amor para acompañar tu camino.¡Disfruta muchísimo tu día, te mereces lo mejor hoy y siempre! 🎉❤️',
+    autor: 'Nairda',
+    hora: "00:05"
   }
 ];
 
